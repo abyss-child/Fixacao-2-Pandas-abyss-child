@@ -1,0 +1,18 @@
+,Name,Damage,Weight,Value,Upgrade material,Smithing perk,Type,Category,Speed
+0,Knife,2,0.5,1,N/A,None,Silverware,One-Handed,N/A
+1,Dragonbone Arrow DG,25,0.0,9,N/A,None,Arrow,Archery,N/A
+2,Dragonbone Warhammer ,28,33.0,4275,Dragon Bone,Dragon,Warhammer,Two-Handed,N/A
+3,Dragonbone Mace ,17,22.0,2000,Dragon Bone,Dragon,Mace,One-Handed,N/A
+4,Blade of Woe,12,7.0,880,None required,Steel,Dagger,One-Handed,N/A
+5,Dragonbone Dagger ,12,6.5,600,Dragon Bone,Dragon,Dagger,One-Handed,N/A
+6,Dwarven Bolt,14,0.0,3,N/A,None,Bolt,Archery,N/A
+7,Exploding Dwarven Bolt of Fire,14,0.0,15,N/A,None,Bolt,Archery,N/A
+8,Exploding Dwarven Bolt of Ice,14,0.0,15,N/A,None,Bolt,Archery,N/A
+9,Exploding Dwarven Bolt of Shock,14,0.0,15,N/A,None,Bolt,Archery,N/A
+10,Dragonbone War Axe ,16,21.0,1700,Dragon Bone,Dragon,War Axe,One-Handed,N/A
+11,Miraak's Sword ,16,3.0,427,Daedra HeartEbony Ingot,Dwarven,Sword,One-Handed,N/A
+12,Dragonbone Greatsword ,25,27.0,2725,Dragon Bone,Dragon,Greatsword,Two-Handed,N/A
+13,Karliah's Bow,25,9.0,5,N/A,-,Bow,Archery,0.625
+14,Tsun's Battleaxe,27,36.0,1000,N/A,-,Battleaxe,Two-Handed,N/A
+15,Dwarven Crossbow,22,20.0,350,Dwarven metal ingot,None,Crossbow,Archery,N/A
+16,Enhanced Dwarven Crossbow,22,21.0,550,Dwarven metal ingot,None,Crossbow,Archery,N/A
